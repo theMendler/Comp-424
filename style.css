@@ -1,0 +1,36 @@
+body {
+  background: #white;
+}
+
+h1 {
+	font-family: 'Alfa Slab One', cursive;
+	color:#560f00;
+	text-align:center;
+}
+a:link {
+	color: #e09628;
+	text-align:center;
+}
+a:hover (
+	color: #560f00:
+}
+section {
+	
+  padding: 10px;
+}
+
+article {
+  margin: 10px;
+  padding: 10px;
+}
+/*.base-img {
+	
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+*/
+p {
+  color: #ccc7c5;
+  text-align:center;
+}
